@@ -10,4 +10,4 @@ You are able to click on the 'generate a password' and a random string of charac
 
 My github repository for this assignment is gaky0401/PasswordHW3
 
-![Password generator](./assets/Homework3.PNG)
+![Password generator](/Assets/Homework3.PNG)
